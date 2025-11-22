@@ -1,4 +1,4 @@
 # Check-WebResponsivity
 Check your website responsive design.
 
-https://kamileray.github.io/CheckResponsive
+https://ozaydin08075.github.io/CheckResponsive/
